@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this dataset or project in your research, please cite it as below."
+title: "German Population Demographics Analysis - A Study of Age Distribution"
+authors:
+  - family-names: "Jishan"
+    given-names: "Md Asifuzzaman"
+    orcid: "https://orcid.org/0000-0001-9540-5614"
+version: "1.0"
+date-released: "2024-05-11"
+url: "https://gitup.uni-potsdam.de/jishan/german-population-demographics-analysis-a-study-of-age-distribution"
+doi: 
+license: "MIT" 
