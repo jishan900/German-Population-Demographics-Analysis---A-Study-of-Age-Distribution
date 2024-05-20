@@ -1,0 +1,33 @@
+About the Dataset: 
+
+The dataset used in this project is collected from the Statistisches Bundesamt and is based on information about the German population. 
+The dataset has a sample size of 53 observations and 22 variables. The variables of the dataset are 'Year', 'under 1 year', '1 year', 
+'2 years', '3 years', '4 years', '5 years', '6 years', '7 years', '8 years', '9 years', '10 years', '11 years', '12 years', '13 years', 
+'14 years', '15 years', '16 years', '17 years', '18 years', '19 years', 'Total'. 
+
+
+After collecting the data, it was discovered that there were a few problems in the dataset. For example, additional information is 
+added to the CSV dataset, which is unnecessary for the EDA analysis. Moreover, the format of the data was not correct. So, it was fixed 
+manually in Excel and saved as a new CSV file. After that, it was discovered that the dataset was well organized and that there were no 
+missing values in the entire dataset. Overall, the data quality is considered to be good. 
+
+
+The datasets originate from the German government's statistical data service, [Genesis, ]{https://www-genesis.destatis.de/genesis/online}. 
+
+GENESIS-Table: 12411-0005: Population: Germany, reference date, years of age
+
+URL: {https://www-genesis.destatis.de/genesis//online?operation=table&code=12411-0005&bypass=true&levelindex=0&levelid=1715384801205#abreadcrumb}
+
+
+
+Research Question:
+
+RQ 1: How have population demographics by age group changed over the years in the dataset? 
+
+RQ 2: In which years was there a significant change in the age distribution? 
+
+RQ 3: How has the number under 1 year population changed (Increased/Decreased) from 1970 to 2022 in Germany?
+
+RQ 4: In which year the minimum population has been found under any age group from 1970 to 2022 in Germany?
+
+RQ 5: What is the increase/decrease rate 18 years age group population from 1970 to 2022 in Germany?
