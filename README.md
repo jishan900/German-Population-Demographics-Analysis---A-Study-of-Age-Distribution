@@ -2,7 +2,6 @@
 # German Population Demographics Analysis - A Study of Age Distribution
 
 ### Project Overview
-This project created for the project 1, Research Software Engineering course at the University of Potsdam.
 
 This project to explore and understand the shifting demographic patterns in Germany, a topic of significant relevance in current socio-economic discussions. Studying these trends provides insights into changes in population structure, such as aging populations or fluctuations in birth rates, which are crucial for policy making and economic forecasting. The availability of a well-organized dataset from a reliable source like the German government's statistical service (Genesis) likely influenced your decision. This project provides an opportunity to work with real-world data that is both comprehensive and of high quality, which is essential for conducting meaningful exploratory data analysis (EDA). Working on this project allows to develop and refine my analytical skills, particularly in data cleaning, data manipulation, how to understand data, and statistical analysis and serves as a practical application of theoretical knowledge gained in statistics, demography, or data science courses. It enables to apply concepts such as trend analysis, population studies, and data visualization to a real-world dataset, bridging the gap between academic studies and practical implementation.
 
