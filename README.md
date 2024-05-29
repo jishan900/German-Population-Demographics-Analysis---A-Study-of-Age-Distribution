@@ -12,6 +12,7 @@ This project to explore and understand the shifting demographic patterns in Germ
 - RQ 4: In which year the minimum population has been found under any age group from 1970 to 2022 in Germany?
 - RQ 5: What is the increase/decrease rate 18 years age group population from 1970 to 2022 in Germany?
 
+
 ### Requirements
 - **Programming Language:** Python 3.9.13
 - **Computing platform:** Jupyter Notebook
